@@ -12,5 +12,5 @@ function Driver(name, age, experience) {
 
 function PickupLocation(address, city) {
   this.address = '123 Broadway';
-  this.city = '';
+  this.city = 'New York City';
 }
